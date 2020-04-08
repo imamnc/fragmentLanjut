@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tes123</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="halo_imam_nc">Halo Imam Nc!</string>
+    <string name="notifications">Notifications</string>
+    <string name="selamat_datang">Selamat Datang !</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+</resources>

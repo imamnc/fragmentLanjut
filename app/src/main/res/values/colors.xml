@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    // soft colors
+    //background color
+
+    <color name="merah">#FF0000</color>
+    <color name="biru">#304FFE</color>
+    <color name="kuning">#FFD600</color>
+    <color name="hijau">#63FF00</color>
+    <color name="ungu">#AA00FF</color>
+</resources>
